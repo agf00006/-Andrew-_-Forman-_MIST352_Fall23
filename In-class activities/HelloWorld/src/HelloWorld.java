@@ -11,8 +11,8 @@ public class HelloWorld {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Welcome to MIST352!");
-
+		// TODO Auto-generated method stub
+System.out.println("Welcome to MIST 352!");
 	}
 
 }
